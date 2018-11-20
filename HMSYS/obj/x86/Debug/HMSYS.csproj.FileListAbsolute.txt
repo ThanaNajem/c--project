@@ -1,0 +1,13 @@
+C:\Users\TechniPAL\documents\visual studio 2010\Projects\HMSYS\HMSYS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TechniPAL\documents\visual studio 2010\Projects\HMSYS\HMSYS\obj\x86\Debug\HMSYS.frm_Login.resources
+C:\Users\TechniPAL\documents\visual studio 2010\Projects\HMSYS\HMSYS\obj\x86\Debug\HMSYS.Home.resources
+C:\Users\TechniPAL\documents\visual studio 2010\Projects\HMSYS\HMSYS\obj\x86\Debug\HMSYS.Properties.Resources.resources
+C:\Users\TechniPAL\documents\visual studio 2010\Projects\HMSYS\HMSYS\obj\x86\Debug\HMSYS.UsersView.resources
+C:\Users\TechniPAL\documents\visual studio 2010\Projects\HMSYS\HMSYS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TechniPAL\documents\visual studio 2010\Projects\HMSYS\HMSYS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TechniPAL\documents\visual studio 2010\Projects\HMSYS\HMSYS\bin\Debug\HMSYS.exe
+C:\Users\TechniPAL\documents\visual studio 2010\Projects\HMSYS\HMSYS\bin\Debug\HMSYS.pdb
+C:\Users\TechniPAL\documents\visual studio 2010\Projects\HMSYS\HMSYS\obj\x86\Debug\HMSYS.exe
+C:\Users\TechniPAL\documents\visual studio 2010\Projects\HMSYS\HMSYS\obj\x86\Debug\HMSYS.pdb
+C:\Users\TechniPAL\documents\visual studio 2010\Projects\HMSYS\HMSYS\obj\x86\Debug\HMSYS.PatientInfoView.resources
+C:\Users\TechniPAL\documents\visual studio 2010\Projects\HMSYS\HMSYS\obj\x86\Debug\HMSYS.MessageView.resources
